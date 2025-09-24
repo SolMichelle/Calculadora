@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Factorial</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <div class="container text-center mt-5">
+        <h1 class="display-4">Calculadora de Factorial 🔢</h1>
+        <p class="lead mt-4">
+            El factorial de un número entero positivo (n!) es el producto de todos los enteros positivos desde 1 hasta ese número. 
+            Por ejemplo, el factorial de 4 ($4!$) se calcula como $4 \times 3 \times 2 \times 1$, que es igual a 24.
+        </p>
+        
+        <h2 class="mt-5">Instrucciones</h2>
+        <p>Introduce un número entero en el campo de abajo y presiona el botón "=". El resultado aparecerá a la derecha.</p>
+        
+        <div class="d-flex justify-content-center align-items-center mt-4">
+            <input type="number" class="form-control w-25 me-2" id="inputNumber" placeholder="Ingresa un número">
+            <button class="btn btn-primary me-2" onclick="calcularFactorial()">=</button>
+            <div class="border p-2 bg-light rounded" id="resultado">Esperando...</div>
+        </div>
+        
+        <a href="index.html" class="btn btn-secondary mt-5">Volver a la página principal</a>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

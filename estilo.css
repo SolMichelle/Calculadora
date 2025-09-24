@@ -1,0 +1,14 @@
+/* Estilos generales */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Estilos de la calculadora clásica */
+#display {
+    font-size: 2rem;
+    height: 60px;
+}
+
+.btn-secondary, .btn-primary, .btn-success, .btn-info, .btn-warning {
+    font-weight: bold;
+}
