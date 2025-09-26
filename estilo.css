@@ -62,3 +62,10 @@ p, a {
     color: #fff !important;
     
 }
+
+.p-background {
+    background-color: rgba(255, 255, 255, 0.75); 
+    color: black; 
+    padding: 15px; 
+    border-radius: 8px; 
+}
