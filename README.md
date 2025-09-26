@@ -34,7 +34,6 @@ Para utilizar esta calculadora, no necesitas más que un navegador web moderno.
 
 1) Clona este repositorio:
 
-Bash
 git clone https://github.com/SolMichelle/Calculadora
 
 2) Abre el archivo index.html:
@@ -43,6 +42,7 @@ Simplemente abre el archivo index.html en tu navegador de preferencia.
 ¡Y listo! El portal a los cálculos escalofriantes se abrirá ante ti.
 
 ## 🩸 Vista Previa del Ritual
+<img width="1527" height="799" alt="image" src="https://github.com/user-attachments/assets/48ddbe00-7ebb-4a2e-b0d1-df433ae02baa" />
 
 
 
