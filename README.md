@@ -1,4 +1,4 @@
-# 💀 La Calculadora de lo Innombrable 👻
+# 💀 La Calculadora Misteriosa 👻
 
 ## 📖 Acerca de este proyecto
 ¡Saludos, alma curiosa! En estas tétricas noches los números cobran vida con un poder único. Esta no es una calculadora ordinaria, sino una herramienta para invocar los secretos más profundos de las matemáticas. Utilizando conjuros en HTML, CSS y JavaScript, este proyecto te permitirá desenterrar los misterios del factorial, el inverso, el logaritmo natural y la negación.
@@ -8,7 +8,7 @@ Este proyecto fue creado como un trabajo de primer año de desarrollo de softwar
 ## 🛠️ Tecnologías Usadas
 HTML5: la estructura base para dar forma a nuestras páginas.
 
-CSS3: para dar un aspecto visual a nuestros hechizos.
+CSS: para dar un aspecto visual a nuestros hechizos.
 
 JavaScript: la magia que hace que los cálculos ocurran.
 
@@ -35,7 +35,7 @@ Para utilizar esta calculadora, no necesitas más que un navegador web moderno.
 1) Clona este repositorio:
 
 Bash
-git clone 
+git clone https://github.com/SolMichelle/Calculadora
 
 2) Abre el archivo index.html:
 Simplemente abre el archivo index.html en tu navegador de preferencia.
@@ -43,7 +43,7 @@ Simplemente abre el archivo index.html en tu navegador de preferencia.
 ¡Y listo! El portal a los cálculos escalofriantes se abrirá ante ti.
 
 ## 🩸 Vista Previa del Ritual
-Una captura de pantalla de la calculadora misteriosa.
+
 
 
 -------------------------------------------------------------------------------------------------------------------
